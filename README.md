@@ -1,1 +1,1 @@
-# Webinar
+# Resume layout using Django
